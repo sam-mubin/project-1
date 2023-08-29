@@ -78,7 +78,7 @@
 
     .work-filter button {
         padding: .3rem;
-        font-size: .4rem;
+        font-size: 1.4rem;
     }
     
     .sig-grid {
@@ -88,5 +88,9 @@
     
     .header-conten-box {
         width: 32rem;
+    }
+
+    .navigation ul {
+    left: 20%
     }
 }
