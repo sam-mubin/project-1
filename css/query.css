@@ -32,6 +32,10 @@
     .work-grid-item:nth-child(5) {
         grid-column: 1/2;
     }
+
+    .header-conten-box {
+        width: 90rem;
+    }
 }
 
 @media screen and (max-width:768px){
@@ -44,6 +48,9 @@
         grid-template-columns: 1fr;
     }
 
+    .header-conten-box {
+        width: 50rem;
+    }
 }
 
 @media screen and (max-width:480px){
@@ -70,8 +77,8 @@
     }
 
     .work-filter button {
-        padding: .6rem;
-        font-size: 1.5rem;
+        padding: .3rem;
+        font-size: .4rem;
     }
     
     .sig-grid {
@@ -79,4 +86,7 @@
         padding: 0 1.5rem;
     }
     
+    .header-conten-box {
+        width: 30rem;
+    }
 }
