@@ -514,6 +514,10 @@ button.mixitup-control-active {
     font-size: 1.6rem;
 }
 
+.next-grid-form-items a {
+    color: #fff;
+}
+
 /*Footer Section */
 footer#footer {
     background: rgba(0,0,0,.16);
